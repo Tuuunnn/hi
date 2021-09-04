@@ -11,5 +11,6 @@ def nem(num):
   
          
                 return prime
-print(prime[1000])
+
+nem(1000)
 
